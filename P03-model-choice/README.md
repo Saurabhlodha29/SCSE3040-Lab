@@ -66,7 +66,7 @@ it, it trains faster, and it breaks less.
 7. **Put the four results side by side**
 8. **Draw the gap, because a table makes you read**
 9. **Stop trusting one split: cross-validation**
-10. **Tune one setting, properly**
+11. **Tune one setting, properly**
 11. **Draw the sweep, because ten numbers hide a shape**
 12. **Choose, and be able to say why**
 
